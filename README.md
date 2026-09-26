@@ -12,10 +12,12 @@ A zero-dependency local prompt-injection detector with no network calls or telem
 
 - Python library, command-line interface, and standard-library HTTP service
 - Tested on Python 3.11, 3.12, 3.13, and 3.14
+- Published on PyPI: `python -m pip install plumblint`
 - Published calibration corpus, confidence intervals, and known bypasses
 - Protected pull-request workflow with reproducible CI checks
 - Source-available for noncommercial use
 
+[![PyPI version](https://img.shields.io/pypi/v/plumblint.svg)](https://pypi.org/project/plumblint/)
 [![Plumblint CI](https://github.com/knbtz65v2c-pixel/plumblint/actions/workflows/ci.yml/badge.svg)](https://github.com/knbtz65v2c-pixel/plumblint/actions/workflows/ci.yml)
 
-[View the project](https://github.com/knbtz65v2c-pixel/plumblint) · [Release v0.1.0](https://github.com/knbtz65v2c-pixel/plumblint/releases/tag/v0.1.0)
+[View the project](https://github.com/knbtz65v2c-pixel/plumblint) · [Install from PyPI](https://pypi.org/project/plumblint/) · [Release v0.1.1](https://github.com/knbtz65v2c-pixel/plumblint/releases/tag/v0.1.1)
